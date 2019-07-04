@@ -1,7 +1,7 @@
 ---
 layout: board
 title: ETC
-permalink: categories/etc/
+permalink: categories/ETC/
 author_profile: false
 sidebar:
     nav: "category"
