@@ -8,7 +8,7 @@ categories:
     - ETC
 permalink: /categories/etc/making-blog-1
 tags: [jekyll, github, blog]
-commets: true
+comments: true
 last_modified_at: 2019-07-04T19:10:00-10:00
 ---
 
