@@ -2,7 +2,7 @@
 sidebar:
     nav: "category"
 title: "깃허브(Github) 블로그 생성과 테마 적용 #1"
-excerpt: "Git, Ruby, Jekyll 설치"
+excerpt: "#Git #Ruby #Jekyll #설치"
 categories:
     - ETC
 permalink: /categories/etc/making-blog-1

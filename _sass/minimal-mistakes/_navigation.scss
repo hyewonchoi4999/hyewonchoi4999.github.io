@@ -237,7 +237,9 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: $primary-color;
+        /* gtslljzs changed masthead navi underline color */
+        // background: $primary-color;
+        background: $title-color;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
