@@ -56,6 +56,8 @@
 .page__title {
   margin-top: 0;
   /* gtslljzs changed interval of page title and contents */
+  font-size: $type-size-2;
+  font-weight: bold;
   margin-bottom: 2em;
   // color: $title-color;
   color: $text-color;
