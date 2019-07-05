@@ -1,5 +1,4 @@
 ---
-layout: posts
 sidebar:
     nav: "category"
 title: "깃허브(Github) 블로그 생성과 테마 적용 #1"
@@ -9,6 +8,7 @@ categories:
 permalink: /categories/etc/making-blog-1
 tags: [jekyll, github, blog]
 comments: true
+share: true
 last_modified_at: 2019-07-04T19:10:00-10:00
 ---
 
