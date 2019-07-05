@@ -2,7 +2,7 @@
 sidebar:
     nav: "category"
 title: "깃허브(Github) 블로그 생성과 테마 적용 #1"
-excerpt: "Github 블로그를 개설하기 전 사전 준비 과정."
+excerpt: "Git, Ruby, Jekyll 설치"
 categories:
     - ETC
 permalink: /categories/etc/making-blog-1
@@ -107,6 +107,6 @@ bundler는 jekyll이라는 페키지를 사용하기위해 가상환경을 생�
 
 ![jekyll_install](/assets/images/etc/jekyll_install.png)
 
-여기까지 설치가 완료되었다면 사전 준비는 끝난 거에요.
+여기까지 설치가 완료되었다면 사전 준비는 끝났습니다.
 
 그럼 다음 포스팅에서 실제 블로그를 생성하고, 테마를 적용하는 법을 알아보도록 하겠습니다.

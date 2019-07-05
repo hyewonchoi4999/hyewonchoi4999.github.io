@@ -3,13 +3,17 @@ layout: archive
 ---
 
 {% for category in site.categories %}
+  {% assign cnt = category[1].size-1 %}
+  {% if category[1].size > 3 %}
+    {% assign cnt = 2 %}
+  {% endif %}
   {% if category[1].size != 0 %}
     <section id="{{ category[0] | slugify | downcase }}" class="taxonomy__section">
       <h3 class="archive__subtitle">{{ category[0] }}</h3>
       <div class="entries-{{ page.entries_layout | default: 'list' }}">
-      {% for i in (0..2) %}
+      {% for i in (0..cnt) %}
         {% assign post = category.last[i] %}
-        {% include board-single.html type=page.entries_layout %}
+        {% include leaderboard-single.html type=page.entries_layout %}
       {% endfor %}
       </div>
       <h5 align="right">

@@ -14,7 +14,7 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
-$sans-serif: -apple-system, BlinkMacSystemFont, "맑은 고딕", "Malgun Gothic", "Nanum Gothic", "Nanum Gothic Coding", "Roboto", "Segoe UI",
+$sans-serif: -apple-system, BlinkMacSystemFont, "Source Sans Pro", "맑은 고딕", "Malgun Gothic", "Nanum Gothic", "Nanum Gothic Coding", "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
@@ -46,6 +46,9 @@ $type-size-8: 0.625em !default; // ~10px
 /*
    Colors
    ========================================================================== */
+/* gtslljzs changed color */
+$title-color: mix(#000, #82aaff, 15%); // #82aaff;
+$subtitle-color: mix( #000, #fff, 40%);
 
 $gray: #7a8288 !default;
 $dark-gray: mix(#000, $gray, 40%) !default;
@@ -58,7 +61,9 @@ $code-background-color: #fafafa !default;
 $code-background-color-dark: $light-gray !default;
 $text-color: $dark-gray !default;
 $muted-text-color: mix(#fff, $text-color, 35%) !default;
-$border-color: $lighter-gray !default;
+/* gtslljzs changed border color */
+// $border-color: $lighter-gray !default;
+$border-color: mix($lighter-gray, $title-color, 89%);
 $form-background-color: $lighter-gray !default;
 $footer-background-color: $lighter-gray !default;
 
@@ -66,12 +71,14 @@ $primary-color: #6f777d !default;
 $success-color: #3fa63f !default;
 $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
-$info-color: #3b9cba !default;
+/* gtslljzs changed link color */
+$info-color: #82aaff !default; //#3b9cba !default;
 $focus-color: $primary-color !default;
 $active-color: mix(#fff, $primary-color, 80%) !default;
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: $dark-gray !default;
+// $yiq-contrasted-dark-default: $title-color !default;
 $yiq-contrasted-light-default: #fff !default;
 $yiq-contrasted-threshold: 175 !default;
 $yiq-debug: false !default;
@@ -102,12 +109,19 @@ $youtube-color: #bb0000 !default;
 $xing-color: #006567 !default;
 
 /* links */
-$link-color: mix(#000, $info-color, 15%) !default;
-$link-color-hover: mix(#000, $link-color, 25%) !default;
+/* gtslljzs changed link color */
+// $link-color: mix(#000, $info-color, 15%) !default;
+$link-color: #000;
+// $link-color-hover: mix(#000, $link-color, 25%) !default;
+$link-color-hover-temp: mix(#fff, $link-color, 55%) !default;
+// $link-color-hover: mix($title-color, $link-color-hover-temp, 55%) !default;
+$link-color-hover: $title-color;
 $link-color-visited: mix(#fff, $link-color, 15%) !default;
 $masthead-link-color: $primary-color !default;
-$masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
-$navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
+// $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
+$masthead-link-color-hover: $title-color !default;
+// $navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
+$navicon-link-color-hover: $title-color !default;
 
 /* syntax highlighting (base16) */
 $base00: #263238 !default;
@@ -145,7 +159,7 @@ $max-width: $x-large !default;
 // $right-sidebar-width-narrow: 200px !default;
 // $right-sidebar-width: 300px !default;
 // $right-sidebar-width-wide: 400px !default;
-$right-sidebar-width-narrow: 150px !default;
+$right-sidebar-width-narrow: 200px !default;
 $right-sidebar-width: 250px !default;
 $right-sidebar-width-wide: 350px !default;
 

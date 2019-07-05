@@ -24,9 +24,14 @@
 
 .archive__subtitle {
   margin: 1.414em 0 0;
-  padding-bottom: 0.5em;
+  // margin-bottom: 0.5em;
+  /* gtslljzs changed interval of archive subtitle and item */
+  // padding-bottom: 0.5em;
+  padding-bottom: 1em;
   font-size: $type-size-5;
-  color: $muted-text-color;
+  /* gtslljzs changed archive subtitle color */
+  /* color: $muted-text-color; */
+  color: $title-color;
   border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
@@ -35,7 +40,9 @@
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  /* gtslljzs changed archive item title margin */
+  // margin-bottom: 0.25em;
+  margin-bottom: 0.4em;
   font-family: $sans-serif-narrow;
   line-height: initial;
   overflow: hidden;
@@ -43,6 +50,8 @@
 
   a[rel="permalink"]::before {
     content: '';
+    // text-decoration: underline;//none;
+    // text-decoration-color: $subtitle-color;
     position: absolute;
     left: 0;
     top: 0;

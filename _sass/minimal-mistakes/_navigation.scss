@@ -101,7 +101,7 @@
     }
 
     &:first-child {
-      margin-left: 0;
+      // margin-left: 5px;
 
       a {
         border-top-left-radius: $border-radius;
@@ -110,6 +110,7 @@
     }
 
     &:last-child {
+      // margin-left: 5px;
       a {
         border-top-right-radius: $border-radius;
         border-bottom-right-radius: $border-radius;
@@ -475,6 +476,7 @@
 
 .nav__title {
   margin: 0;
+  // margin-left: 3em;
   padding: 0.5rem 0.75rem;
   font-family: $sans-serif-narrow;
   font-size: $type-size-5;
@@ -486,9 +488,11 @@
   margin: 0.5rem 0;
   padding: 0.25rem 0;
   font-family: $sans-serif-narrow;
-  font-size: $type-size-6;
+  // font-size: $type-size-6;
+  font-size: 0.875em;
   font-weight: bold;
   text-transform: uppercase;
+  border-top: 1px solid $border-color;
   border-bottom: 1px solid $border-color;
 }
 

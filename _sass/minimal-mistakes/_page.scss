@@ -55,6 +55,11 @@
 
 .page__title {
   margin-top: 0;
+  /* gtslljzs changed interval of page title and contents */
+  margin-bottom: 2em;
+  // color: $title-color;
+  color: $text-color;
+
   line-height: 1;
 
   & + .page__meta {
@@ -93,8 +98,12 @@
   }
 
   a:not(.btn) {
+    // text-decoration: underline;
+    text-decoration-color: $link-color-hover;
+
     &:hover {
-      text-decoration: underline;
+      // text-decoration: underline;
+      // text-decoration-color: $title-color;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -135,7 +144,8 @@
   animation-delay: 0.25s;
 
   &--overlay {
-    margin-top: 5em;
+    /* gtslljzs changed intro page margin-top */
+    margin-top: 4em;
     position: relative;
     margin-bottom: 2em;
     padding: 3em 0;
