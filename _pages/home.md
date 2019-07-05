@@ -1,5 +1,5 @@
 ---
 # layout: home
 permalink: /home/
-author_profile: true
+author_profile: false
 ---
