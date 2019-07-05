@@ -47,7 +47,8 @@ $type-size-8: 0.625em !default; // ~10px
    Colors
    ========================================================================== */
 /* gtslljzs changed color */
-$title-color: mix(#000, #82aaff, 15%); // #82aaff;
+$title-color: mix(#000, #7ba5ff, 10%); // #82aaff;
+// $title-color: #7ba5ff;
 $subtitle-color: mix( #000, #fff, 40%);
 
 $gray: #7a8288 !default;
@@ -72,7 +73,7 @@ $success-color: #3fa63f !default;
 $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
 /* gtslljzs changed link color */
-$info-color: #82aaff !default; //#3b9cba !default;
+$info-color: #7ba5ff !default; //#3b9cba !default;
 $focus-color: $primary-color !default;
 $active-color: mix(#fff, $primary-color, 80%) !default;
 
