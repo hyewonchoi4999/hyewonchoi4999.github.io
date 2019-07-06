@@ -29,11 +29,7 @@
       {% else %}
         <a href="{{ post.url | relative_url }}" style="text-decoration: none" rel="permalink">{{ title }}</a>
       {% endif %}
-      &nbsp&nbsp&nbsp&nbsp
-      <small> {{ post.date | date_to_string }} </small>
+      <small class="archive__item-date"> {{ post.date | date_to_string }} </small>
     </h3>
-    {% if post.excerpt %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
-    {% endif %}
   </article>
 </div>

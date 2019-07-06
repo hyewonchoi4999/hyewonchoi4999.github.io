@@ -50,6 +50,8 @@ $type-size-8: 0.625em !default; // ~10px
 $title-color: mix(#000, #7ba5ff, 10%); // #82aaff;
 // $title-color: #7ba5ff;
 $subtitle-color: mix( #000, #fff, 45%);
+$archive-excerpt: mix(#000, #fff, 50%);
+$archive-body: mix( #000, #fff, 45%);
 
 $gray: #7a8288 !default;
 $dark-gray: mix(#000, $gray, 40%) !default;
