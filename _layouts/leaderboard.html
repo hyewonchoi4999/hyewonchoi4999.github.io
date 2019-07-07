@@ -3,9 +3,15 @@ layout: archive
 ---
 
 {% for category in site.categories %}
-  {% assign cnt = category[1].size-1 %}
-  {% if category[1].size > 3 %}
+  {% assign cnt = 0 %}
+  {% if category[1].size >= 3 %}
     {% assign cnt = 2 %}
+  {% endif %}
+  {% if category[1].size == 2 %}
+    {% assign cnt = 1 %}
+  {% endif %}
+  {% if category[1].size == 1 %}
+    {% assign cnt = 0 %}
   {% endif %}
   {% if category[1].size != 0 %}
     <section id="{{ category[0] | slugify | downcase }}" class="taxonomy__section">
