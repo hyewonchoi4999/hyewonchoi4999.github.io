@@ -1,7 +1,7 @@
 ---
 layout: board
-title: "Algorithms"
-permalink: /categories/lecture/Algorithms
+title: Lecture/Algorithms
+permalink: /categories/Lecture/Algorithms
 author_profile: false
 sidebar:
     nav: "category"

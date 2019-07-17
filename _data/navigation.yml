@@ -13,7 +13,7 @@ category:
   - title: Lecture Note
     children:
       - title: "Algorithms"
-        url: /categories/lecture/Algorithms
+        url: /categories/Lecture/Algorithms
       - title: "Data Structure"
         url: /categories/Lecture/Data Structure
   - title: Paper Review
