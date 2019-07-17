@@ -17,7 +17,8 @@ last_modified_at: 2019-07-06T18:00:00-10:00
 <br>
 
 [깃허브 블로그 만들기 #1](/categories/etc/making-blog-1)<br>
-**[깃허브 블로그 만들기 #2](/categories/etc/making-blog-2)**
+**[깃허브 블로그 만들기 #2](/categories/etc/making-blog-2)**<br>
+[깃허브 블로그 만들기 #3](/categories/etc/making-blog-3)
 
 <br>
 깃허브 블로그 만들기 두 번째 포스팅입니다.
@@ -51,7 +52,7 @@ last_modified_at: 2019-07-06T18:00:00-10:00
 - screenshot-layouts.png
 - screenshot.png
 
-> docs 폴더 같은 경우네는 minimal-mistakes 깃허브 블로그의 샘플 페이지에 대한 정보가 저장이 돼있어요. 참고하실 분들은 지우지 않으셔도 되지만, 그대로 놔두실 경우 본인의 블로그에 샘플 페이지가 표시될 수도 있으니 알아두시면 좋을 것 같아요.
+docs 폴더 같은 경우네는 minimal-mistakes 깃허브 블로그의 샘플 페이지에 대한 정보가 저장이 돼있어요. 참고하실 분들은 지우지 않으셔도 되지만, 그대로 놔두실 경우 본인의 블로그에 샘플 페이지가 표시될 수도 있으니 알아두시면 좋을 것 같아요.
 
 ## 2. local 서버에 테마 적용하기
 다운 받은 테마를 적용하는 방법은 명령어 몇 줄만으로도 가능합니다. 먼저 cmd 창을 열어주세요. 그리고 본인의 블로그 폴더가 저장돼있는 디렉토리로 이동해주세요.

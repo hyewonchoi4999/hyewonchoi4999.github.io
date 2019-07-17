@@ -17,7 +17,8 @@ last_modified_at: 2019-07-04T19:10:00-10:00
 <br>
 
 **[깃허브 블로그 만들기 #1](/categories/etc/making-blog-1)**<br>
-[깃허브 블로그 만들기 #2](/categories/etc/making-blog-2)
+[깃허브 블로그 만들기 #2](/categories/etc/making-blog-2)<br>
+[깃허브 블로그 만들기 #3](/categories/etc/making-blog-3)
 
 <br>
 깃허브 블로그 만들기 첫 번째 포스팅입니다.
