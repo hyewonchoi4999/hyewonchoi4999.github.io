@@ -1,7 +1,7 @@
 ---
 layout: board
 title: Paper Review
-permalink: categories/Paper/
+permalink: posts/Paper/
 author_profile: false
 sidebar:
     nav: "category"

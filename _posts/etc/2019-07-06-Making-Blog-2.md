@@ -3,9 +3,9 @@ sidebar:
     nav: "category"
 title: "깃허브(Github) 블로그 만들기 #2"
 excerpt: "블로그 생성하고 테마 적용하기"
-categories:
+posts:
     - ETC
-permalink: /categories/etc/making-blog-2
+permalink: /posts/etc/making-blog-2
 tags: [jekyll, github, blog]
 toc: true
 toc_sticky: true
@@ -16,14 +16,14 @@ last_modified_at: 2019-07-06T18:00:00-10:00
 
 <br>
 
-[깃허브 블로그 만들기 #1](/categories/etc/making-blog-1)<br>
-**[깃허브 블로그 만들기 #2](/categories/etc/making-blog-2)**<br>
-[깃허브 블로그 만들기 #3](/categories/etc/making-blog-3)
+[깃허브 블로그 만들기 #1](/posts/etc/making-blog-1)<br>
+**[깃허브 블로그 만들기 #2](/posts/etc/making-blog-2)**<br>
+[깃허브 블로그 만들기 #3](/posts/etc/making-blog-3)
 
 <br>
 깃허브 블로그 만들기 두 번째 포스팅입니다.
 
-[지난 포스팅](/categories/etc/making-blog-1)에서 github 블로그 생성을 위한 사전 준비는 모두 마쳤습니다. 이제 설치된 jekyll을 이용해 블로그를 생성해야하는데 사실 생성 자체는 정말 별 거 없어요. 명령어 몇 줄이면 금방 생성이 됩니다. 그러나 이 포스팅을 보는 분들이라면 단지 블로그 생성만이 목적이 아니라 남들처럼 테마도 있고 애니메이션 효과도 있는 멋들어진 자신만의 블로그 생성이 목적이겠죠. 그래서 이번 포스팅에서는 블로그 생성 이후에 테마를 적용하는 과정까지 설명드리도록 하겠습니다.
+[지난 포스팅](/posts/etc/making-blog-1)에서 github 블로그 생성을 위한 사전 준비는 모두 마쳤습니다. 이제 설치된 jekyll을 이용해 블로그를 생성해야하는데 사실 생성 자체는 정말 별 거 없어요. 명령어 몇 줄이면 금방 생성이 됩니다. 그러나 이 포스팅을 보는 분들이라면 단지 블로그 생성만이 목적이 아니라 남들처럼 테마도 있고 애니메이션 효과도 있는 멋들어진 자신만의 블로그 생성이 목적이겠죠. 그래서 이번 포스팅에서는 블로그 생성 이후에 테마를 적용하는 과정까지 설명드리도록 하겠습니다.
 
 ## 1. 테마 다운로드
 테마를 적용하는 방법에는 2가지 방법이 있습니다. 먼저, 적용하고 싶은 테마를 배포하고 있는 github에서 테마의 repository를 fork해서 내 github으로 옮겨온 후, 이름을 바꿔주는 방법이 있고, 적용하고 싶은 테마의 release 버전을 다운 받아 내 local repository에 옮긴 후, commit하는 방법이 있습니다. 저는 제가 사용한 두 번째 방법에 대해서 설명드리도록 하겠습니다.

@@ -3,9 +3,9 @@ sidebar:
     nav: "category"
 title: "[Data Structure] Performance Analysis"
 excerpt: "퍼포먼스 분석을 하는 이유와 분석 방법"
-categories:
+posts:
     - Lecture/Data Structure
-permalink: /categories/Lecture/Data Structure/performance-analysis
+permalink: /posts/Lecture/Data Structure/performance-analysis
 tags: [data structure, time complexity, performance analysis]
 use_math: true
 toc: true
