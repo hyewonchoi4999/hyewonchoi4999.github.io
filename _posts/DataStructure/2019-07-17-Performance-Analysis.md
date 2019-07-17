@@ -5,7 +5,7 @@ title: "[Data Structure] Performance Analysis"
 excerpt: "퍼포먼스 분석을 하는 이유와 분석 방법"
 categories:
     - Lecture/Data Structure
-permalink: /categories/lecture/Data Structure/performance-analysis
+permalink: /categories/Lecture/Data Structure/performance-analysis
 tags: [data structure, time complexity, performance analysis]
 use_math: true
 toc: true
