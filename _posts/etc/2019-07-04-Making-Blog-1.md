@@ -3,9 +3,9 @@ sidebar:
     nav: "category"
 title: "깃허브(Github) 블로그 만들기 #1"
 excerpt: "블로그 생성에 앞서 프로그래밍 환경 구성하기. Git, Ruby, Jekyll 설치."
-posts:
+categories:
     - ETC
-permalink: /posts/etc/making-blog-1
+permalink: /posts/ETC/making-blog-1
 tags: [jekyll, github, blog]
 toc: true
 toc_sticky: true
@@ -16,9 +16,9 @@ last_modified_at: 2019-07-04T19:10:00-10:00
 
 <br>
 
-**[깃허브 블로그 만들기 #1](/posts/etc/making-blog-1)**<br>
-[깃허브 블로그 만들기 #2](/posts/etc/making-blog-2)<br>
-[깃허브 블로그 만들기 #3](/posts/etc/making-blog-3)
+**[깃허브 블로그 만들기 #1](/posts/ETC/making-blog-1)**<br>
+[깃허브 블로그 만들기 #2](/posts/ETC/making-blog-2)<br>
+[깃허브 블로그 만들기 #3](/posts/ETC/making-blog-3)
 
 <br>
 깃허브 블로그 만들기 첫 번째 포스팅입니다.

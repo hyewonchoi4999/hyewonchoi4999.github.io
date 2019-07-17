@@ -3,7 +3,7 @@ sidebar:
     nav: "category"
 title: "[Data Structure] Performance Analysis"
 excerpt: "퍼포먼스 분석을 하는 이유와 분석 방법"
-posts:
+categories:
     - Lecture/Data Structure
 permalink: /posts/Lecture/Data Structure/performance-analysis
 tags: [data structure, time complexity, performance analysis]

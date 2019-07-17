@@ -3,9 +3,9 @@ sidebar:
     nav: "category"
 title: "깃허브(Github) 블로그 만들기 #3"
 excerpt: "블로그 구조와 Layout이 적용되는 과정"
-posts:
+categories:
     - ETC
-permalink: /posts/etc/making-blog-3
+permalink: /posts/ETC/making-blog-3
 tags: [jekyll, github, blog]
 toc: true
 toc_sticky: true
@@ -14,9 +14,9 @@ share: true
 last_modified_at: 2019-07-17T15:00:00-10:00
 ---
 
-[깃허브 블로그 만들기 #1](/posts/etc/making-blog-1)<br>
-[깃허브 블로그 만들기 #2](/posts/etc/making-blog-2)<br>
-**[깃허브 블로그 만들기 #3](/posts/etc/making-blog-3)**
+[깃허브 블로그 만들기 #1](/posts/ETC/making-blog-1)<br>
+[깃허브 블로그 만들기 #2](/posts/ETC/making-blog-2)<br>
+**[깃허브 블로그 만들기 #3](/posts/ETC/making-blog-3)**
 
 <br>
 깃허브 블로그 만들기 세 번째 포스팅입니다. 이 포스팅은 블로그에 적용된 테마가 어떻게 적용되는지 전체적인 구조에 대한 포스팅입니다. 혹시 구조적인 내용에 대해 궁금하지 않으신 분들은 가볍게 건너 뛰시면 됩니다.
