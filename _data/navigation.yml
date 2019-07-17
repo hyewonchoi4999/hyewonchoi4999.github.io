@@ -13,12 +13,12 @@ category:
   - title: Lecture Note
     children:
       - title: "Algorithms"
-        url: /categories/Lecture/Algorithms
+        url: categories/Lecture/Algorithms
       - title: "Data Structure"
-        url: /categories/Lecture/Data Structure
+        url: categories/Lecture/Data Structure
   - title: Paper Review
-    url: /categories/Paper/
+    url: categories/Paper/
   - title: Project
-    url: /categories/Project
+    url: categories/Project
   - title: ETC
-    url: /categories/ETC/
+    url: categories/ETC/
