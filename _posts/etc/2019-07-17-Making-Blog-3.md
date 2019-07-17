@@ -110,6 +110,13 @@ archive.html 파일도 default라는 layout을 쓰겠다고 명시해놓았네�
 
 ***_sass/minimal-mistakes/*** 로 가시면 하위 파일들 중 ***_archive.scss*** 파일과  ***_page.scss*** 파일이 있네요. 두 파일을 열어서 쭉 훑어보시면 ***_archive.scss*** 파일에는 **.archive {...}** 함수가 있고, ***_page.scss*** 파일에는 **.page__title {...}** 함수가 있습니다. 이 함수 내부의 바디를 수정하시면 layout을 조금 더 세부적으로 수정할 수 있습니다.
 
+***_scss/minimal-mistakes/_archive.scss***
+![.archive](/assets/images/etc/archive_code1.png)
+
+***_scss/minimal-mistakes/_page.scss***
+![page_title](/assets/images/etc/page__title.png)
+
+
 각 구역이 어느 파일에 있는지 도저히 모르시겠다면, 웹 브라우저 페이지에서 **f12** (크롬 기준) 버튼을 누르시면 소스코드가 뜰 거에요. 이 소스코드를 활용하시면 커스터마이징 하는데에 훨씬 도움이 될 거에요.
 
 일단, 오늘은 실제 커스터마이징에 앞서 각 파일들이 어떻게 구조적으로 연결되어 있는지 알아보았고, 사실은 이번 포스팅에서 실제 커스터마이징까지 진행하려 했으나 글이 너무 길어지는 바람에 다음 포스팅에서 이어가도록 하겠습니다.
