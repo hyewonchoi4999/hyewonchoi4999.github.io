@@ -21,7 +21,7 @@
 .archive__item {
   position: relative;
   /* gtslljzs changed post list interval */
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 
 .archive__subtitle {
@@ -84,7 +84,7 @@
   margin-top: 0;
   font-size: $type-size-5;
   color: $archive-excerpt;
-  margin-bottom: 1em;
+  margin-bottom: 0em;
 
   & + p {
     text-indent: 0;
