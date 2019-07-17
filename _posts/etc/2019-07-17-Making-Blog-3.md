@@ -1,11 +1,11 @@
 ---
 sidebar:
     nav: "category"
-title: "깃허브(Github) 블로그 만들기 #3-1"
-excerpt: "테마 커스터마이징 하기"
+title: "깃허브(Github) 블로그 만들기 #3"
+excerpt: "블로그 구조와 Layout이 적용되는 과정"
 categories:
     - ETC
-permalink: /categories/etc/making-blog-3-1
+permalink: /categories/etc/making-blog-3
 tags: [jekyll, github, blog]
 toc: true
 toc_sticky: true
@@ -16,13 +16,12 @@ last_modified_at: 2019-07-17T15:00:00-10:00
 
 [깃허브 블로그 만들기 #1](/categories/etc/making-blog-1)<br>
 [깃허브 블로그 만들기 #2](/categories/etc/making-blog-2)<br>
-**[깃허브 블로그 만들기 #3-1](/categories/etc/making-blog-3-1)**
+**[깃허브 블로그 만들기 #3](/categories/etc/making-blog-3)**
 
 <br>
 깃허브 블로그 만들기 세 번째 포스팅입니다. 이 포스팅은 블로그에 적용된 테마가 어떻게 적용되는지 전체적인 구조에 대한 포스팅입니다. 혹시 구조적인 내용에 대해 궁금하지 않으신 분들은 가볍게 건너 뛰시면 됩니다.
 
 그 동안 이런 저런 일이 있어 지난 포스팅과 텀이 길어졌네요. 지난 두 번째 포스팅에서는 블로그를 개설하고 테마를 적용하는 방법까지 알아보았습니다. 사실 세 번째 포스팅으로 적용된 기본 테마를 커스터마이징 하는 방법과 포스트를 작성하는 방법 두 가지 중에 고민을 했지만, 조금 더 난해할 수 있는 커스터마이징 방법에 대해 작성하기로 했습니다.
-
 
 # 1. 각 폴더와 파일들의 역할
 커스터마이징에 대해 어떻게 설명을 해야할지 고민을 하다가 코드 하나하나의 수정 사항을 보여드리기보다는 전체적인 구조를 아시는 것이 우선일 것 같다고 생각해서 먼저 커스터마이징에 필요한 폴더와 파일들의 역할에 대해 제가 아는 범위 내에서 설명드리도록 하겠습니다. 제가 언급하지 않는 폴더와 파일들은 저 또한 사용한 적이 없고 기능을 알 수 없는 것들이기 때문에 양해 부탁드릴게요.
