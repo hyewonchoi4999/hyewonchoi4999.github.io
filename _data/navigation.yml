@@ -16,6 +16,8 @@ category:
         url: posts/Lecture/Algorithms
       - title: "Data Structure"
         url: posts/Lecture/Data Structure
+      - title: "Database"
+        url: posts/Lecture/Database
       - title: "Machine Learning"
         url: posts/Lecture/Machine Learning
   - title: Paper Review
