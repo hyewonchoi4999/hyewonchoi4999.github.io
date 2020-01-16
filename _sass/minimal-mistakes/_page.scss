@@ -6,7 +6,7 @@
   @include clearfix;
   margin-left: auto;
   margin-right: auto;
-  // gtslljzs padding change
+  // bg.choi padding change
   padding-left: 1em;
   padding-right: 1em;
   -webkit-animation: $intro-transition;
@@ -55,7 +55,7 @@
 
 .page__title {
   margin-top: 0;
-  /* gtslljzs changed interval of page title and contents */
+  /* bg.choi changed interval of page title and contents */
   font-size: $type-size-2;
   font-weight: bold;
   margin-bottom: 1.5em;
@@ -156,7 +156,7 @@
   animation-delay: 0.25s;
 
   &--overlay {
-    /* gtslljzs changed intro page margin-top */
+    /* bg.choi changed intro page margin-top */
     // margin-top: 4em;
     position: relative;
     margin-bottom: 2em;

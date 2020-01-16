@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "gtslljzs"
+title                    : "bg.choi"
 title_separator          : "-"
-name                     : "gtslljzs"
+name                     : "bg.choi"
 description              : "Technology Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "gtslljzs/gtslljzs.github.io"
+repository               : "Bg-Choi/bg-choi.github.io"
 # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png"
@@ -34,7 +34,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "gtslljzs"
+    shortname            : "Bg.Choi"
     # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
@@ -110,7 +110,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "gtslljzs"
+  name             : "Bonggeun, Choi"
   avatar           : "/assets/images/profile.jpg"
   bio              : "Thanks for your visit"
   location         : "Suwon, South Korea"
@@ -118,7 +118,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: gtslljzs818@gmail.com
+      # url: bonggeun.choi818@gmail.com
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -131,7 +131,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/gtslljzs"
+      url: "https://github.com/Bg-Choi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -147,7 +147,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/gtslljzs"
+      url: "https://github.com/Bg-Choi"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

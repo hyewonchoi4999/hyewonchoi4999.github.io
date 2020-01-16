@@ -46,7 +46,7 @@ $type-size-8: 0.625em !default; // ~10px
 /*
    Colors
    ========================================================================== */
-/* gtslljzs changed color */
+/* bg.choi changed color */
 $title-color: mix(#000, #7ba5ff, 10%); // #82aaff;
 // $title-color: #7ba5ff;
 $subtitle-color: mix( #000, #fff, 45%);
@@ -64,7 +64,7 @@ $code-background-color: #fafafa !default;
 $code-background-color-dark: $light-gray !default;
 $text-color: $dark-gray !default;
 $muted-text-color: mix(#fff, $text-color, 35%) !default;
-/* gtslljzs changed border color */
+/* bg.choi changed border color */
 // $border-color: $lighter-gray !default;
 $border-color: mix($lighter-gray, $title-color, 89%);
 $form-background-color: $lighter-gray !default;
@@ -74,7 +74,7 @@ $primary-color: #6f777d !default;
 $success-color: #3fa63f !default;
 $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
-/* gtslljzs changed link color */
+/* bg.choi changed link color */
 $info-color: #7ba5ff !default; //#3b9cba !default;
 $focus-color: $primary-color !default;
 $active-color: mix(#fff, $primary-color, 80%) !default;
@@ -112,7 +112,7 @@ $youtube-color: #bb0000 !default;
 $xing-color: #006567 !default;
 
 /* links */
-/* gtslljzs changed link color */
+/* bg.choi changed link color */
 // $link-color: mix(#000, $info-color, 15%) !default;
 $link-color: #000;
 // $link-color-hover: mix(#000, $link-color, 25%) !default;

@@ -20,18 +20,18 @@
 
 .archive__item {
   position: relative;
-  /* gtslljzs changed post list interval */
+  /* bg.choi changed post list interval */
   margin-bottom: 1em;
 }
 
 .archive__subtitle {
   margin: 1.414em 0 0;
   // margin-bottom: 0.5em;
-  /* gtslljzs changed interval of archive subtitle and item */
+  /* bg.choi changed interval of archive subtitle and item */
   // padding-bottom: 0.5em;
   padding-bottom: 1em;
   font-size: $type-size-5;
-  /* gtslljzs changed archive subtitle color */
+  /* bg.choi changed archive subtitle color */
   /* color: $muted-text-color; */
   color: $title-color;
   border-bottom: 1px solid $border-color;
@@ -42,7 +42,7 @@
 }
 
 .archive__item-title {
-  /* gtslljzs changed archive item title margin */
+  /* bg.choi changed archive item title margin */
   // margin-bottom: 0.25em;
   margin-bottom: 0.3em;
   font-family: $sans-serif-narrow;
@@ -65,7 +65,7 @@
     opacity: 0.5;
   }
 
-  /* gtslljzs changed posts time format */
+  /* bg.choi changed posts time format */
   .archive__item-date {
     margin-left: 1em;
   }
@@ -95,7 +95,7 @@
   }
 }
 
-/* gtslljzs changed archive__item-body */
+/* bg.choi changed archive__item-body */
 .archive__item-body {
   font-size: 16px;
   color: $archive-body;
