@@ -122,7 +122,6 @@
    ========================================================================== */
 
 .author__avatar {
-  margin-top: 10em;
   display: table-cell;
   vertical-align: top;  
   width: 36px;
@@ -135,6 +134,7 @@
   }
 
   img {
+    margin-top: 5em;
     max-width: 150px;
     border-radius: 40%;
 
