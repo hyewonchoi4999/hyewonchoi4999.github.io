@@ -22,7 +22,8 @@ layout: archive
       {% endfor %}
       </div>
       <br>
-      <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+      <a href="/posts/{{category[0]}}" class="more">{{ 'more' }} &rarr;</a>
+      <!-- <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a> -->
     </section>
     <!-- <section id="{{ category[0] | slugify | downcase }}" class="taxonomy__section">
       <h3 class="archive__subtitle">{{ category[0] }}</h3>

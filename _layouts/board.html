@@ -35,7 +35,8 @@ layout: archive
           {% endfor %}
           </div>
           <h5 align="right">
-            <a href="/posts/{{category[0]}}" class="more">{{ 'more' }} &rarr;</a>
+            <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+            <!-- <a href="/posts/{{category[0]}}" class="more">{{ 'more' }} &rarr;</a> -->
           </h5>
         </section>
         {% endif %}
