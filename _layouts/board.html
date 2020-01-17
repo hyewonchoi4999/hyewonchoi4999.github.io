@@ -20,7 +20,7 @@ layout: archive
             <!-- <h2 class="archive__subtitle">{{ category[0] }}</h2> -->
             <div class="entries-{{ page.entries_layout | default: 'list' }}">
             {% for post in category.last %}
-                {% include board-single.html type=page.entries_layout %}
+                {% include leaderboard-single.html type=page.entries_layout %}
             {% endfor %}
             </div>
             <br>
