@@ -134,7 +134,7 @@
   }
 
   img {
-    max-width: 150px;
+    max-width: 130px;
     border-radius: 40%;
 
     @include breakpoint($large) {
@@ -145,7 +145,8 @@
 }
 
 .author__content {
-  margin-top: 5em;
+  /* bg.choi changed author content margin */
+  margin-top: 2em;
   display: table-cell;
   vertical-align: top;
   padding-left: 15px;
