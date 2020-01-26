@@ -1,23 +1,23 @@
 # main links
 main:
   - title: "Home"
-    url: /home/
+    url: /
   - title: "About"
     url: /about/
   - title: "Posts"
     url: /posts/
   - title: "GitHub"
-    url: https://github.com/Bg-Choi/
+    url: https://github.com/JangDaesik/
 
 category:
   - title: Lecture Note
     children:
-      - title: "Algorithms"
-        url: posts/Lecture/Algorithms
-      - title: "Data Structure"
-        url: posts/Lecture/Data Structure
-      - title: "Database"
-        url: posts/Lecture/Database
+      - title: "Natural Language Processing"
+        url: posts/Lecture/Natural Language Processing
+      - title: "Information Retrieval"
+        url: posts/Lecture/Information Retrieval
+      - title: "DeepFake Detection"
+        url: posts/Lecture/DeepFake Detection
       - title: "Machine Learning"
         url: posts/Lecture/Machine Learning
   - title: Paper Review
