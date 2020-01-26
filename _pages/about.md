@@ -36,8 +36,8 @@ author_profile: true
 - Information Retrieval
 
 ## Careers
-- 2014.03 ~ 2020.02 : Dong-A Univ. B.S.
-- 2019.01 ~ 2019.12 : IS lab. at Dong-A Univ.
+- 2016.03 ~ 2020.02 : Dong-A Univ. B.S.
+- 2018.03 ~ 2019.12 : IS lab. at Dong-A Univ.
 - 2020.01 ~ 현재 : NLP lab. at SKK Univ.
 
 ## Papers
