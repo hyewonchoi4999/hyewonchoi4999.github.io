@@ -34,9 +34,17 @@ author_profile: true
 
 ## Interests
 - Natural Language Processing
+- FakeNews Detection
+- Information Retrieval
 
 ## Careers
-- 2013.03 ~ : SKKU Univ. B.S.
-- 2020.01 ~ : NLP lab. at SKKU Univ.
+- 2014.03 ~ 2020.02 : Dong-A Univ. B.S.
+- 2020.03 ~ : NLP lab. at SKK Univ.
 
 ## Papers
+- 최혜원, 장대식, 손동철, 이승욱, 고영중
+<br>"SNS 채팅 데이터에 적응적인 Self-Attention 기반 문맥의존 철자오류 교정 시스템"
+<br>제31회 한글 및 한국어 정보처리 학술대회, pp. 362-367, 2019년 10월.
+<br>Hyewon Choi, Daesik Jang, DongCheol Son, Seungwook Lee and Youngjoong Ko
+<br>"Adaptive Context-sensitive Spelling Error Correction System Based on Self-attention for Social Network Service Chatting Data"
+<br>Proceedings of the 31th Annual Conference on Human and Cognitive Language Technology (HCLT 2019), pp. 362-367, October 2019.
