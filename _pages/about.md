@@ -44,7 +44,7 @@ author_profile: true
 ## Papers
 - 최혜원, 장대식, 손동철, 이승욱, 고영중
 <br>"SNS 채팅 데이터에 적응적인 Self-Attention 기반 문맥의존 철자오류 교정 시스템"
-<br>제31회 한글 및 한국어 정보처리 학술대회, pp. 362-367, 2019년 10월.
+<br><small>제31회 한글 및 한국어 정보처리 학술대회, pp. 362-367, 2019년 10월.</small>
 <br>Hyewon Choi, Daesik Jang, DongCheol Son, Seungwook Lee and Youngjoong Ko
 <br>"Adaptive Context-sensitive Spelling Error Correction System Based on Self-attention for Social Network Service Chatting Data"
-<br>Proceedings of the 31th Annual Conference on Human and Cognitive Language Technology (HCLT 2019), pp. 362-367, October 2019.
+<br><small>Proceedings of the 31th Annual Conference on Human and Cognitive Language Technology (HCLT 2019), pp. 362-367, October 2019.</small>
