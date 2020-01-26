@@ -37,9 +37,10 @@ author_profile: true
 
 ## Careers
 - 2014.03 ~ 2020.02 : Dong-A Univ. B.S.
+- 2019.01 ~ 2019.12 : IS lab. at Dong-A Univ.
 - 2020.01 ~ : NLP lab. at SKK Univ.
 
 ## Papers
 - 최혜원, 장대식, 손동철, 이승욱, 고영중
 <br><b><font color = "#000063">"SNS 채팅 데이터에 적응적인 Self-Attention 기반 문맥의존 철자오류 교정 시스템"</font></b>
-<br><small>제31회 한글 및 한국어 정보처리 학술대회, pp. 362-367, 2019년 10월.</small>
+<br><small>제31회 한글 및 한국어 정보처리 학술대회(HCLT 2019), pp. 362-367, 2019년 10월.</small>
