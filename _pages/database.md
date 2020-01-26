@@ -1,7 +1,7 @@
 ---
 layout: board
-title: Lecture/Database
-permalink: posts/Lecture/Database
+title: Lecture/DeepFake Detection
+permalink: posts/Lecture/DeepFake Detection
 author_profile: false
 sidebar:
     nav: "category"
