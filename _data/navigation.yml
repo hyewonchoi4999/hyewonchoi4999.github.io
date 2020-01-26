@@ -12,8 +12,8 @@ main:
 category:
   - title: Lecture Note
     children:
-      - title: "Natural Language Processing"
-        url: posts/Lecture/Natural Language Processing
+      - title: "NLP"
+        url: posts/Lecture/NLP
       - title: "Information Retrieval"
         url: posts/Lecture/Information Retrieval
       - title: "FakeNews Detection"
