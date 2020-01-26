@@ -1,5 +1,5 @@
 ---
 # layout: home
-permalink: /home/
+permalink: /
 author_profile: true
 ---
