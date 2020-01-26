@@ -21,10 +21,10 @@ author_profile: true
 <br>
 <br>
 
-<center> Hi, I'm a student majoring in computer science and interested in NLP. </center>
+<!-- <center> Hi, I'm a student majoring in computer science and interested in NLP. </center>
 <center> I created this blog to record what I learned. </center>
 <center> If you have any questions or advice about my posts, even for me, </center>
-<center> please leave comments. Thanks. </center>
+<center> please leave comments. Thanks. </center> -->
 
 <!-- #### <center> Hi, I'm a student majoring in computer science. </center>
 #### <center> I created this blog to record what I learned in college </center>
