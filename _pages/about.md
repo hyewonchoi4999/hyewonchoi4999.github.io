@@ -18,8 +18,6 @@ author_profile: true
 #### <center> 감사합니다. </center> -->
 <!-- </center> -->
 <!-- </div> -->
-<br>
-<br>
 
 <!-- <center> Hi, I'm a student majoring in computer science and interested in NLP. </center>
 <center> I created this blog to record what I learned. </center>
