@@ -38,7 +38,7 @@ author_profile: true
 ## Careers
 - 2014.03 ~ 2020.02 : Dong-A Univ. B.S.
 - 2019.01 ~ 2019.12 : IS lab. at Dong-A Univ.
-- 2020.01 ~ : NLP lab. at SKK Univ.
+- 2020.01 ~ 현재 : NLP lab. at SKK Univ.
 
 ## Papers
 - 최혜원, 장대식, 손동철, 이승욱, 고영중
