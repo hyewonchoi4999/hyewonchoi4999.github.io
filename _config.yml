@@ -118,7 +118,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: daesik0320@gmail.com
+      # url: daesik0320@gmail.com
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
