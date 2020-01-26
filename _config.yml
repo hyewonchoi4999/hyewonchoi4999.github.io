@@ -16,25 +16,25 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daesik.Jang"
+title                    : "Hyewon.Choi"
 title_separator          : "-"
-name                     : "Daesik.Jang"
+name                     : "Hyewon.Choi"
 description              : "Technology Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "JangDaesik/JangDaesik.github.io"
+repository               : "hyewonchoi4999/hyewonchoi4999.github.io"
 # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : ""
 # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "DS.Jang's"
+masthead_title           : "HW.Choi's"
 # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "Daesik Jang"
+    shortname            : "Hyewon Choi"
     # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
@@ -110,11 +110,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daesik, Jang"
+  name             : "Hyewon, Choi"
   avatar           : "/assets/images/profile_cut.jpg"
   bio              : "Thanks for your visit"
   location         : "Suwon, South Korea"
-  email            : daesik0320@gmail.com
+  email            : hyewon4999@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -147,7 +147,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/JangDaesik"
+      url: "https://github.com/hyewonchoi4999"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
