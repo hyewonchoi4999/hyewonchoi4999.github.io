@@ -16,8 +16,8 @@ category:
         url: posts/Lecture/Natural Language Processing
       - title: "Information Retrieval"
         url: posts/Lecture/Information Retrieval
-      - title: "DeepFake Detection"
-        url: posts/Lecture/DeepFake Detection
+      - title: "FakeNews Detection"
+        url: posts/Lecture/FakeNews Detection
       - title: "Machine Learning"
         url: posts/Lecture/Machine Learning
   - title: Paper Review
